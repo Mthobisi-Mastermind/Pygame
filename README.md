@@ -9,7 +9,7 @@ A basic game programmed in Python
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* Inspiration(#inspiration)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -21,7 +21,7 @@ Can be played by anyone.
 * Player must run away from the enemies.
 * When Player gets touched by one of the 3 enemies, the user loses and game is over
 * When Player touches the prize, the User wins and game is over
-* ####Controls
+* __Controls__
   * Up key- moves player up
   * Down key- moves player down
   * Left key- moves player to the left
