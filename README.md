@@ -28,10 +28,10 @@ Can be played by anyone.
   * Right key- moves player to the right
 
 ## Screenshots
-### Certain section of code behind program
+### Certain section of the code behind program
 ![get image1](https://github.com/Mthobisi-Mastermind/Screenshots/blob/master/Screenshot%202020-04-04%2012.20.48.png)
 
-### Partly output
+### Characters on game-play
 ![get image1](https://github.com/Mthobisi-Mastermind/Screenshots/blob/master/Screenshot%202020-04-04%2012.21.15.png)
 
 ## Technologies
@@ -47,7 +47,7 @@ Currently the program can only be ran from a Python IDE, which can be downloaded
 The program is complete and functions accordingly, but might be upgraded as time goes on.
 
 ## Inspiration
-Inspired by Hyperion dev, by that they teach you all the skills on how to play around with loops to get desired results.
+Inspired by Hyperion dev, they teach you all the skills on how to play around with loops to get desired results.
 
 ## Contact
 Created by @Mthobisi-Mastermind, feel free to contact me:
